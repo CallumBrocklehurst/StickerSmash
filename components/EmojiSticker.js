@@ -1,5 +1,7 @@
 import { View, Image } from 'react-native';
-import { PanGestureHandler, TapGestureHandler } from 'react-native-gesture-handler';
+
+import { PanGestureHandler, TapGestureHandler} from "react-native-gesture-handler";
+
 import Animated, {
   useAnimatedStyle,
   useSharedValue,
